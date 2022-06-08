@@ -13,12 +13,13 @@ Patika dev profilim --> https://app.patika.dev/razumihin
 3. [2,6,16,22,18,27] ***n-2***
 4. [2,6,16,18,22,27] ***n-3***
 5. [2,6,16,18,22,27] ***n-4***
+6. [2,6,16,18,22,27] ***1***
 
 ---
 
 ## Soru 2.
 
-[22,27,16,2,18,6] dizisinin Big-O notasyonu **(n.(n+1))/2** 'den **O(n²)** olacaktir.
+[22,27,16,2,18,6] dizisinin Big-O notasyonu **(n.(n+1))/2** 'den **O(n²)** --> **(6.(6+1))/2** 'den **O(6²)** olacaktir.
 
 ---
 
